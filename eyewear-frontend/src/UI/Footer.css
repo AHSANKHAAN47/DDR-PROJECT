@@ -1,0 +1,124 @@
+.Container1{
+    display: flex;
+    /* margin-top: 100%;
+    width: 100%; */
+    background-color: rgb(227, 240, 240);
+}
+
+.Right1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    padding: 20px;
+}
+
+.Center1{
+    font-weight: bold;
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.List1{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ListItem1{
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.Left1{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.Logo1{
+    /* font-weight: 100; */
+    margin-bottom: 1px;
+}
+
+.Desc1{
+    margin-bottom: 5px;
+    font-weight: 150;
+    /* margin: 20px 0px; */
+}
+
+.SocialContainer1{
+    display: flex;
+}
+
+.Title1{
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.ContactItem1{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.Payment1{
+    margin-bottom: 10px;
+    width: 50%;
+    height: 50%;
+}
+
+
+.SocialIco1{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #3B5999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.SocialIco2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #E4405F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.SocialIco3{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #55acee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.SocialIco4{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #e60023;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    margin-top: 10px;
+}
